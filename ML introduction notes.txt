@@ -1,0 +1,137 @@
+what is MACHINE LEARNING ?
+1 its part of data science
+2 ML means machine is learning Something usefull from the data given by the user at run time
+
+
+something usefull :
+	 data(raw facts collection)
+	data pattern
+	hidden data pattern
+	past experience ( situational thinking)
+	generalization
+
+
+DEEP LEARNING 
+	dl is a subset of ML
+
+Info ( processed data)
+insights(through  understanding of INFO)
+
+MACHINE LEARNING GOALS:
+		
+		ITS PROVIDES GENERALISED DATA MODEL ( OPTED MODEL WITH ACCEPTED OUTPUT)
+		
+		FIND OUT THE HIDDEN DATA PATTERN BEHIND EVERY SINGLE DATA SET
+
+		SIGNIFICANTLY IMPROVE THE PERFORMANCE OF MACHINE ALSO CALLED CONCURRENT EXECUTION OF DATA
+		
+		IT AVOIDS OVERFITTING OF DATA & UNDERFITTING OF DATA 
+		1 OVERFITTING - LOW BAIS (PRACTICAL TRAINING TIME ERROR) AND HIGHT VARIANCE ( TESTET TIMING ERROR)
+		2 UNDERFITTING - HIGH BAIS AND HIGH VARIANCE
+
+		MINIMUM ACCURACY OF 73% SHOULD BE MAINTAINED
+		
+		MACHINE INPUT MUST BE (2D) FORMAT 
+
+		MACHINE GIVES USUALLY HIGH LEVEL PRIORITY TO NUMERICAL VALUES (NUMBER)
+
+MODULE 1 ( DATA SCIENCE INTRO , PANDAS , NUMPY , SCIPY, MATPLOTLIB,SEABORN)
+1 PANDAS -- DATA ANALYSIS LIBRARY
+
+2 NUMPY -- NUMERICAL METHOD ARRAY PROCESSING PACKAGE
+
+   1D ARRAY -- CONTAINS LENGTH ( SCALAR VALUE )
+   2D ARRAY -- CALLED AS TABLE 
+
+3 SCIPY -- HELPS TO DISTRIBUTE DATA - STATISTICS BASED 
+
+4 MATPLOTLIB -- USED FOR BARCHART & PIECHART
+
+5 SEABORN -- ADVANCE OF MATPLOTLIB
+
+MODULE 2 
+    ( ML . ALGORITHMS,SCIKIT LEARNS ALSO KNOWN AS SKLEARN ,  PYLAB)
+
+MODULE 3
+	(COMBINING M1 & M2 USING SOME DATA SET PROJECTS)
+
+10 ALGORITHMS :
+	1 Linear REGRESSION(S)-(y=mx+b)-(regression line-y intercept-loss-reduced-residual analysis)
+	2 Logistic REGRESSION(S)-(y=mx+b)-Sigmoid functions(1/1+e-z)-(0,1)(Classification algm)
+	3 Naive Bayes Algorithms(s)-(bayes thorem)-Probability(classification algm)
+	4 Pricipal component Analysis(PCA-Unsupervised)-(dimensionality reduction-Variance-(Co-variance)-(Co-variance matrix))
+	5 Support Vector Machine (SVM)-(face recognition-hyperplane,Margin,Marginal distance)-(Classification algm)
+	6 KNN(s)-distance calculation-("euclidean- Manhattan-minkowski)-(Classification algm)
+	7 KMC(unsupervised)-("euclidean- Manhattan-minkowski)-( centroid calculation- updating centroids)
+	8 Decision tree(s)-(gini index, entropy,purity of data split)-(Classification/regression algm)
+	9 Random forest (Ensemble Learning - bagging)-(collection of DT)
+	10 XGboost (EL-Boosting-framework)-bagging & boosting
+
+
+DATA SCIENCE : ( Analysis + Analytics)
+		analysis = suggestion = what i have done with the data so far 
+		analytics = recommendation = what i supposed to do near future
+		DL= deep learning
+		MNL=Manifold learning(maps)
+		TL = transfer learning
+		NLP = natral language process(voice recogonisation process)
+		AI = artifical intelligence( working culture of modern era)
+
+ DA = [ analysis + analytics(adv analysis) + ML + DL + MNL + TL + NLP + AI ]
+
+
+BASIC TERMINOLOGY
+1 DATA SCIENTIST:
+	analytical data professional with high degree of techinical exposure in python
+
+	helps business by collect data, compelling data, interpret data format,modelling data , manipulating data
+	
+2 DATA SET:
+	
+	collection of data that is specifically structured one here, specific means similar type of data
+
+	local terms , data set means data grouping
+
+	here, collected data may be small, larger or complex 
+3 DATA MINING:
+	( we need to segrigate the data by using the same dataset)
+	
+	finding the Useable model and insights from the dataset 
+
+	it is possible to use many techniques like regression, classification,cluster analysis,outlier(loss/deviation) analysis
+
+4 DATA VISUALISATION:
+
+	Big data should be saved in H5PY,HDF5
+	Pictorial representation of visualised content
+	display statistical data in a visual fastion
+	chart(bar,pie,scatter,heatmap,3d,bubble)
+	graph/info graph/tree
+
+5 DATA MODELLING (Action plan / implimentation scheme)
+	prototyping of data (prototype means overall systametic design)
+	converting a data into a predective/action plan also support visual documents
+
+6 DATA WRANGLING
+	 process of formatting or restructuring (raw data into suitable specific data)
+	 improve better decision making
+	 
+7 algorithms
+	series and repeatable steps/programs / routines
+	expressed in a mathematic fashion using statics data
+
+8 Artificial intelligence
+	simulation of human process by the machine
+	information acquisation
+	information rule creation
+	info reasoning(to reach max approximation)
+	definite conclusion(Fizzy logic)
+	self-correction 
+	
+     
+	
+     
+
+
+		
+		
